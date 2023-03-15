@@ -24,7 +24,7 @@ Enter the number corresponding to your choice: 3
 ```
 The script will prompt you to enter two numbers, and then display a menu of available operations. Enter the number corresponding to your choice, and the script will perform the selected operation and display the result.
 
-If you attempt to divide by zero, the script will print an error message and exit with a non-zero status code
+If you attempt to divide by zero, the script will print an error message and exit with a non-zero status code.
 
 ## Limitations
 This calculator is intended for simple, basic arithmetic operations only. It does not support more advanced mathematical functions, such as trigonometry or logarithms.
